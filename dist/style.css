@@ -1,0 +1,9 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+    list-style-type: none;
+}
